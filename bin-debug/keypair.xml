@@ -1,0 +1,12 @@
+<ECDSAKeyValue xmlns="http://www.w3.org/2001/04/xmldsig-more#">
+  <DomainParameters>
+    <NamedCurve URN="urn:oid:1.2.840.10045.3.1.7"/>
+  </DomainParameters>
+  <PublicKey>
+    <X Value="98687758820284359330494223398949046143515944562154827700466329361018561550484" xsi:Type="PrimeFieldElemType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Y Value="65855138893659686100775244825268302309900988808753154243229910753239747609047" xsi:Type="PrimeFieldElemType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+  </PublicKey>
+  <PrivateKey>
+    <D Value="108021103570486022491685008898999786250036359485162939943786059357913490994656" xsi:Type="PrimeFieldElemType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+  </PrivateKey>
+</ECDSAKeyValue>
